@@ -1,0 +1,6 @@
+framework module Pods_digio_teste {
+  umbrella header "Pods-digio_teste-umbrella.h"
+
+  export *
+  module * { export * }
+}
